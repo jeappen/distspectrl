@@ -1,0 +1,7 @@
+gym==0.21.0
+numpy==1.22.2
+ray[rllib]==1.11.0
+scipy==1.7.3
+torch==1.10.2
+scikit-learn==1.1.2
+wandb==0.13.1

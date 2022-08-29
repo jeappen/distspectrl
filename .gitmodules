@@ -1,0 +1,3 @@
+[submodule "rm_cooperative_marl"]
+	path = rm_cooperative_marl
+	url = git@github.com:yokian/marl-rm.git
